@@ -4,7 +4,7 @@ A collection of Rust learning notes and articles.
 
 ## Articles
 
-- [Rust 生命周期详解](./ink/lifetime.md) - Comprehensive guide to Rust lifetimes, covering references, annotations, elision, structs/enums, special lifetimes, and variance concepts.
+- [lifetime](./ink/lifetime.md) - Comprehensive guide to Rust lifetimes, covering references, annotations, elision, structs/enums, special lifetimes, and variance concepts.
 
 ## About
 
