@@ -33,7 +33,7 @@ fn main() {
 }
 ```
 
-![](img/lifetime_1.png)
+![](https://github.com/cj2a7t/ink-over-memory/blob/main/img/lifetime_1.png?raw=true)
 
 ## 2.生命周期-标注
 
