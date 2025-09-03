@@ -5,6 +5,7 @@ A collection of Rust learning notes and articles.
 ## Articles
 
 - [lifetime](./ink/lifetime.md) - Comprehensive guide to Rust lifetimes, covering references, annotations, elision, structs/enums, special lifetimes, and variance concepts.
+- [self](./ink/self.md) - Understanding Rust's self keyword and method syntax in structs and traits.
 
 ## About
 
